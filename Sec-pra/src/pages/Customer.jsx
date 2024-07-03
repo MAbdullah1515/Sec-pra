@@ -74,7 +74,7 @@ export default function Customer() {
     var config = {
       headers: {
         accessToken:
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJhZG1pbkBwcHMuY29tIiwiZHZUb2tlbiI6IjIxMjEtcGtsLXBsbCIsImlhdCI6MTcxOTk5OTg2N30.K7B81-tojYK3t6SVxRiX0B3oPX645y6voap5euCl9b8",
+          "....////.....",
       },
     };
     axios
